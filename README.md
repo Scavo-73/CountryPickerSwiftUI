@@ -4,7 +4,8 @@
 
 ## Screenshot 
 
-![](SimulatorScreenShot.png)
+<img src="/SimulatorScreenShot.png" width=300 />
+
 
 ## Requirements
 
